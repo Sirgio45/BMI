@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BMI</string>
+
+    <string name="height_text_view">Height:</string>
+    <string name="height_edit_text">0.0</string>
+    <string name="height_edit_text_hint">in inches</string>
+
+
+    <string name="weight_text_view">Weight:</string>
+    <string name="weight_edit_text">0.0</string>
+    <string name="weight_edit_text_hint">in Lbs</string>
+
+
+    <string name="BMI_text_view">BMI</string>
+    <string name="BMI_edit_text"></string>
+    <string name="BMI_edit_text_hint">0.0</string>
+
+</resources>
